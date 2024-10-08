@@ -6,10 +6,10 @@
     
 <div> 
    👨‍🎓 - Formado em Análise e desenvolvimento de Sistemas </br>
-   💻 - Já realizei projetos privados em python</br>
-   💬 - Em JavaScript me aprofundo cada dia mais em Nodejs, Reactjs e React Native. </br>
-   💬 - Em Python realizei projetos utilizando Selenium e OpenCV, e, também, realizei cursos em Data Science (Pandas)</br>
-   👨‍💼 - Atualmente trabalho como Analista de Suporte Pleno utilizando ambientes Linux, Protocolos de Rede, estruturação de dados com Logstash/Elastic/Kibana e etc.  </br>
+   💻 - Já realizei vários projetos privados em Python, Sistemas de automação, Crawler, Webservice e etc.</br>
+   💬 - Em JavaScript me aprofundo cada dia mais em Nodejs e Reactjs. </br>
+   💬 - Em Python realizei projetos utilizando Selenium e OpenCV, e, também, realizei tratamento de dados com a lib (Pandas)</br>
+   👨‍💼 - Tenho experiência como Analista Pleno utilizando ambientes Linux, Protocolos de Rede, Docker, administração de servidores Distribuição Centos e Debian, estruturação de dados com Logstash/Elastic/Kibana e etc.  </br>
    👨‍💼 - Gosto de novos desafios e sempre prezando a agilidade, integridade e honestidade. </br>
 </div> 
 
