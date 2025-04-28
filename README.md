@@ -4,22 +4,24 @@
   <h4> Sou formado em Análise e Desenvolvimento de Sistemas e estou em busca de oportunidades e colaboração em projetos para profundo aprendizado. <h4>
 </div> 
     
-<div> 👨‍🎓 **Formação:** Análise e Desenvolvimento de Sistemas (ADS). </br></br>
-💻 Experiência em Python: Desenvolvimento de projetos privados e públicos utilizando Django, Flask e bibliotecas como Selenium, Playwright e OpenCV. Atuação na construção de sistemas de automação, crawlers, webservices e APIs REST, além de processamento e tratamento de dados (ETL) com Pandas. </br></br>
+<div> 
+   👨‍🎓 - <strong>Formado em Análise e Desenvolvimento de Sistemas</strong> </br></br>
 
-💬 Experiência em JavaScript: Desenvolvimento contínuo em Node.js (Express), React.js e TypeScript, com foco na criação de APIs REST e aplicações modernas. </br></br>
+   💻 - <strong>Experiência em Python:</strong> Desenvolvimento de projetos privados e públicos utilizando <strong>Django</strong> e <strong>Flask</strong>, além de bibliotecas como <strong>Selenium</strong>, <strong>Playwright</strong> e <strong>OpenCV</strong>, implementando sistemas de automação, crawlers, webservices e APIs REST, além de processamento de dados com <strong>Pandas</strong> para ETL. </br></br>
 
-👨‍💼 Ambientes e Infraestrutura: Vivência em ambientes Linux, protocolos de rede, administração de servidores, containers Docker, e estruturação de dados com ELK Stack (Logstash, Elasticsearch e Kibana). </br></br>
+   💬 - <strong>Experiência em JavaScript:</strong> Desenvolvimento contínuo com <strong>Node.js (Express)</strong>, <strong>React.js</strong> e <strong>TypeScript</strong> na criação de APIs REST e aplicações modernas. </br></br>
 
-👨‍💼 DevOps: Implementação de pipelines CI/CD para deploy em ambientes Kubernetes (Clusters Dev, Homologação e Produção). Experiência com ArgoCD, GitOps e automação de infraestrutura. </br></br>
+   👨‍💼 - <strong>Ambientes e Infraestrutura:</strong> Atuação em ambientes <strong>Linux</strong>, protocolos de rede, administração de servidores, containers <strong>Docker</strong> e estruturação de dados utilizando <strong>Logstash</strong>, <strong>Elasticsearch</strong> e <strong>Kibana</strong> (ELK Stack). </br></br>
 
-👨‍💼 Orquestração e Observabilidade: Gerenciamento de ambientes Kubernetes e OpenShift. Monitoramento de infraestrutura com Prometheus, Grafana e Zabbix (configuração de agentes e coleta de métricas). </br></br>
+   👨‍💼 - <strong>DevOps:</strong> Implementação de pipelines <strong>CI/CD</strong> para deploy em ambientes <strong>Kubernetes</strong> (clusters Dev, Homologação e Produção) com ferramentas como <strong>ArgoCD</strong> e <strong>GitOps</strong>. </br></br>
 
-👨‍💼 Automação e IAC: Automação de tarefas e infraestrutura utilizando Ansible, Bash scripting e conhecimento em infraestrutura como código (Terraform). </br></br>
+   👨‍💼 - <strong>Observabilidade:</strong> Gerenciamento de ambientes <strong>Kubernetes</strong> e <strong>OpenShift</strong>, além de monitoramento de infraestrutura com <strong>Prometheus</strong>, <strong>Grafana</strong> e <strong>Zabbix</strong> (configuração de agentes e coleta de métricas). </br></br>
 
-📞 Ambientes VOIP: Implantação, configuração e suporte a ambientes VoIP com sinalização E1, R2 e SIP. Certificado Khomp para Gateways de borda (KMG, UMG, FXS, entre outros).
+   👨‍💼 - <strong>Automação e IaC:</strong> Automatização de tarefas e infraestrutura utilizando <strong>Ansible</strong>, scripts <strong>Bash</strong> e conhecimentos de <strong>Terraform</strong> para infraestrutura como código. </br></br>
 
+   📞 - <strong>VOIP:</strong> Implantação e configuração de ambientes VoIP, atuando com sinalizações <strong>E1</strong>, <strong>R2</strong> e <strong>SIP</strong>. Certificação Khomp para Gateways de borda (<strong>KMG</strong>, <strong>UMG</strong>, <strong>FXS</strong> e outros).</br>
 </div>
+
 
    ##
 
