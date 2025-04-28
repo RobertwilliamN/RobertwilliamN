@@ -1,8 +1,9 @@
 ## Olá! Me chamo Robert William.
 
-<div> 
-  <h4> Sou formado em Análise e Desenvolvimento de Sistemas e estou em busca de oportunidades e colaboração em projetos para profundo aprendizado. <h4>
-</div> 
+<div>
+  <h4>Profissional em DevOps e Desenvolvimento de Software com mais de quatro anos de experiência em automação, infraestrutura e otimização de processos. Minha trajetória inclui a implementação de pipelines CI/CD, gerenciamento de contêineres e orquestração de microsserviços, além do desenvolvimento de soluções escaláveis e de alta disponibilidade.</h4>
+</div>
+
     
 <div> 
    👨‍🎓 - <strong>Formado em Análise e Desenvolvimento de Sistemas</strong> </br></br>
