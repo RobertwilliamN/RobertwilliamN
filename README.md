@@ -4,14 +4,22 @@
   <h4> Sou formado em Análise e Desenvolvimento de Sistemas e estou em busca de oportunidades e colaboração em projetos para profundo aprendizado. <h4>
 </div> 
     
-<div> 
-   👨‍🎓 - Formado em Análise e desenvolvimento de Sistemas </br>
-   💻 - Já realizei vários projetos privados em Python - Django e Flask, Sistemas de automação, Crawler, Webservice e APIs.</br>
-   💬 - Em JavaScript me aprofundo cada dia mais em Nodejs, Reactjs e Typescrypt criando API Rest e Webservices. </br>
-   💬 - Em Python realizei projetos utilizando Selenium e OpenCV, e, também, realizei tratamento de dados com a lib (Pandas)</br>
-   👨‍💼 - Tenho experiência como Analista Pleno utilizando ambientes Linux, Protocolos de Rede, Docker, administração de servidores Distribuição Centos e Debian, estruturação de dados com Logstash/Elastic/Kibana e etc.  </br>
-   👨‍💼 - Gosto de novos desafios e sempre prezando a agilidade, integridade e honestidade. </br>
-</div> 
+<div> 👨‍🎓 **Formação:** Análise e Desenvolvimento de Sistemas (ADS). </br></br>
+💻 Experiência em Python: Desenvolvimento de projetos privados e públicos utilizando Django, Flask e bibliotecas como Selenium, Playwright e OpenCV. Atuação na construção de sistemas de automação, crawlers, webservices e APIs REST, além de processamento e tratamento de dados (ETL) com Pandas. </br></br>
+
+💬 Experiência em JavaScript: Desenvolvimento contínuo em Node.js (Express), React.js e TypeScript, com foco na criação de APIs REST e aplicações modernas. </br></br>
+
+👨‍💼 Ambientes e Infraestrutura: Vivência em ambientes Linux, protocolos de rede, administração de servidores, containers Docker, e estruturação de dados com ELK Stack (Logstash, Elasticsearch e Kibana). </br></br>
+
+👨‍💼 DevOps: Implementação de pipelines CI/CD para deploy em ambientes Kubernetes (Clusters Dev, Homologação e Produção). Experiência com ArgoCD, GitOps e automação de infraestrutura. </br></br>
+
+👨‍💼 Orquestração e Observabilidade: Gerenciamento de ambientes Kubernetes e OpenShift. Monitoramento de infraestrutura com Prometheus, Grafana e Zabbix (configuração de agentes e coleta de métricas). </br></br>
+
+👨‍💼 Automação e IAC: Automação de tarefas e infraestrutura utilizando Ansible, Bash scripting e conhecimento em infraestrutura como código (Terraform). </br></br>
+
+📞 Ambientes VOIP: Implantação, configuração e suporte a ambientes VoIP com sinalização E1, R2 e SIP. Certificado Khomp para Gateways de borda (KMG, UMG, FXS, entre outros).
+
+</div>
 
    ##
 
