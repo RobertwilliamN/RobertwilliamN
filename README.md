@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:0f2027&height=260&section=header&text=Robert%20William&fontSize=58&fontColor=00ffcc&fontAlignY=38&desc=DevOps%20Engineer%20•%20Systems%20Analyst%20•%20Fullstack%20Developer&descAlignY=65&descSize=22" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:0f2027&height=120&section=header&text=Robert%20William&fontSize=45&fontColor=00ffcc&fontAlignY=38&desc=DevOps%20Engineer%20•%20Systems%20Analyst%20•%20Fullstack%20Developer&descAlignY=80&descSize=22" />
 <div>
 
 🎓 <strong>Graduado em Análise e Desenvolvimento de Sistemas</strong>  
@@ -11,9 +11,13 @@
 
 💻 <strong>Backend & Integrações:</strong> Python (Django REST, Flask), Node.js (Express), APIs REST, integrações externas (Meta API), PostgreSQL, MySQL, MongoDB  
 
+🛡 <strong>Security & Reliability:</strong> Container security (Trivy), Code Quality (SonarQube), incident response e troubleshooting avançado
+
 🤖 <strong>Automação & IaC:</strong> Terraform, Ansible, Bash, Dockerfiles, Selenium, Playwright  
 
 </div>
+
+<hr style="border: 1px solid #222;" />
 
   
 
@@ -23,16 +27,29 @@
 
 </div>
  <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Robert-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Robert-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Robert-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Robert-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Robert-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Robert-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Robert-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-   <img align="center" alt="Robert-Nodejs" height="30" width="40" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <div align="center">
+
+<img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+<img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
+<img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
+<img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg">
+<img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
+<img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
+<img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+<img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg">
+<img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg">
+<img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg">
+<img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+<img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+<img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+<img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+
+</div>
    
 </div>
+
+
 
 
 <p align="center">
