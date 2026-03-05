@@ -4,8 +4,8 @@
 
 <div>
   <h4>
-    Engenheiro DevOps e Desenvolvedor com +5 anos de experiência em automação, infraestrutura e construção de sistemas escaláveis. 
-    Especialista em CI/CD, Kubernetes e práticas GitOps, com forte base em desenvolvimento backend e integração de sistemas.
+    DevOps Engineer com sólida experiência em automação de infraestrutura, pipelines CI/CD e ambientes Kubernetes. 
+    Atuo na construção de plataformas resilientes, escaláveis e orientadas a observabilidade, com background em desenvolvimento backend.
   </h4>
 </div>
 
