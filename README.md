@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:0f2027&height=120&section=header&text=Robert%20William&fontSize=45&fontColor=00ffcc&fontAlignY=38&desc=DevOps%20Engineer%20•%20Systems%20Analyst%20•%20Fullstack%20Developer&descAlignY=80&descSize=22" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:0f2027&height=120&section=header&text=Robert%20William&fontSize=30&fontColor=00ffcc&fontAlignY=38&desc=DevOps%20Engineer%20•%20Systems%20Analyst%20•%20Fullstack%20Developer&descAlignY=80&descSize=22" />
 <div>
 
 🎓 <strong>Graduado em Análise e Desenvolvimento de Sistemas</strong>  
@@ -27,7 +27,6 @@
 
 </div>
  <div style="display: inline_block" align="center"><br>
-  <div align="center">
 
 <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
@@ -36,15 +35,21 @@
 <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
 <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
 <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+<img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg">
 <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg">
 <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg">
 <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+<img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+<img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+<img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+<img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
 <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 
+</div>
 </div>
    
 </div>
