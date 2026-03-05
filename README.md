@@ -1,25 +1,17 @@
-<!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Robert%20William&fontSize=60&fontColor=ffffff" />
-
-
-<div>
-  <h4>
-    DevOps Engineer com sólida experiência em automação de infraestrutura, pipelines CI/CD e ambientes Kubernetes. 
-    Atuo na construção de plataformas resilientes, escaláveis e orientadas a observabilidade, com background em desenvolvimento backend.
-  </h4>
-</div>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:0f2027&height=260&section=header&text=Robert%20William&fontSize=58&fontColor=00ffcc&fontAlignY=38&desc=DevOps%20Engineer%20•%20Systems%20Analyst%20•%20Fullstack%20Developer&descAlignY=65&descSize=22" />
 <div>
 
-🎓 <strong>Análise e Desenvolvimento de Sistemas</strong>  
+🎓 <strong>Graduado em Análise e Desenvolvimento de Sistemas</strong>  
 
-🚀 <strong>DevOps & Cloud Native:</strong> CI/CD, Kubernetes, Docker, GitOps (ArgoCD), GitHub Actions, GitLab CI, Tekton  
+🚀 <strong>DevOps & Platform Engineering:</strong> CI/CD (GitLab CI, GitHub Actions, Jenkins, Tekton), Kubernetes & OpenShift, GitOps (ArgoCD), Docker, Nexus Repository, SonarQube, Trivy  
 
-🖥️ <strong>Infraestrutura & Observabilidade:</strong> Linux, OpenShift, Prometheus, Grafana, Zabbix, ELK Stack  
+☁️ <strong>Cloud & Infraestrutura:</strong> AWS, GCP, Azure, Linux (Debian/CentOS), Redes (DNS, DHCP, NAT, Firewalls), Virtualização e administração de ambientes críticos  
 
-🐍 <strong>Backend:</strong> Python (Django, Flask), Node.js (Express), APIs REST, automações e ETL  
+📊 <strong>Observabilidade & Monitoramento:</strong> Prometheus, Grafana, Zabbix, ELK Stack (Elasticsearch, Logstash, Kibana)  
 
-🤖 <strong>Automação & IaC:</strong> Terraform, Ansible, Bash, Selenium, Playwright  
+💻 <strong>Backend & Integrações:</strong> Python (Django REST, Flask), Node.js (Express), APIs REST, integrações externas (Meta API), PostgreSQL, MySQL, MongoDB  
+
+🤖 <strong>Automação & IaC:</strong> Terraform, Ansible, Bash, Dockerfiles, Selenium, Playwright  
 
 </div>
 
