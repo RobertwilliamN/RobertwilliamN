@@ -1,30 +1,35 @@
-## Olá! Me chamo Robert William.
+<!-- HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Robert%20William&fontSize=60&fontColor=ffffff" />
+
 
 <div>
-  <h4>Profissional em DevOps e Desenvolvimento de Software com mais de cinco anos de experiência em automação, infraestrutura e otimização de processos. Minha trajetória inclui a implementação de pipelines CI/CD, gerenciamento de contêineres e orquestração de microsserviços, além do desenvolvimento de soluções escaláveis e de alta disponibilidade.</h4>
+  <h4>
+    Engenheiro DevOps e Desenvolvedor com +5 anos de experiência em automação, infraestrutura e construção de sistemas escaláveis. 
+    Especialista em CI/CD, Kubernetes e práticas GitOps, com forte base em desenvolvimento backend e integração de sistemas.
+  </h4>
 </div>
 
-    
-<div> 
-   👨‍🎓 - <strong>Formado em Análise e Desenvolvimento de Sistemas</strong> </br></br>
-   🐍 - <strong>Experiência em Python:</strong> Desenvolvimento de projetos privados e públicos utilizando <strong>Django</strong> e <strong>Flask</strong>, além de bibliotecas como <strong>Selenium</strong>, <strong>Playwright</strong> e <strong>OpenCV</strong>, implementando sistemas de automação, crawlers, webservices e APIs REST, além de processamento de dados com <strong>Pandas</strong> para ETL. </br></br>
-   ⚡ - <strong>Experiência em JavaScript:</strong> Desenvolvimento contínuo com <strong>Node.js (Express)</strong>, <strong>React.js</strong> e <strong>TypeScript</strong> na criação de APIs REST e aplicações modernas. </br></br>
-   🖥️ - <strong>Ambientes e Infraestrutura:</strong> Atuação em ambientes <strong>Linux</strong>, protocolos de rede, administração de servidores, containers <strong>Docker</strong> e estruturação de dados utilizando <strong>Logstash</strong>, <strong>Elasticsearch</strong> e <strong>Kibana</strong> (ELK Stack). </br></br>
-   🔧 - <strong>DevOps:</strong> Implementação de pipelines <strong>CI/CD</strong> para deploy em ambientes <strong>Kubernetes</strong> (clusters Dev, Homologação e Produção) com ferramentas como <strong>ArgoCD</strong>, <strong>Gitlab-CI</strong>, <strong>Tekton</strong>, <strong>Github Action </strong> e <strong>GitOps</strong>. </br></br>
-   📈 - <strong>Observabilidade:</strong> Gerenciamento de ambientes <strong>Kubernetes</strong> e <strong>OpenShift</strong>, além de monitoramento de infraestrutura com <strong>Prometheus</strong>, <strong>Grafana</strong> e <strong>Zabbix</strong> (configuração de agentes e coleta de métricas). </br></br>
-   🤖 - <strong>Automação e IaC:</strong> Automatização de tarefas e infraestrutura utilizando <strong>Ansible</strong>, scripts <strong>Bash</strong> e conhecimentos de <strong>Terraform</strong> para infraestrutura como código. </br></br>
-   📞 - <strong>VOIP:</strong> Implantação e configuração de ambientes VoIP, atuando com sinalizações <strong>E1</strong>, <strong>R2</strong> e <strong>SIP</strong>. Certificação Khomp para Gateways de borda (<strong>KMG</strong>, <strong>UMG</strong>, <strong>FXS</strong> e outros).</br>
+<div>
+
+🎓 <strong>Análise e Desenvolvimento de Sistemas</strong>  
+
+🚀 <strong>DevOps & Cloud Native:</strong> CI/CD, Kubernetes, Docker, GitOps (ArgoCD), GitHub Actions, GitLab CI, Tekton  
+
+🖥️ <strong>Infraestrutura & Observabilidade:</strong> Linux, OpenShift, Prometheus, Grafana, Zabbix, ELK Stack  
+
+🐍 <strong>Backend:</strong> Python (Django, Flask), Node.js (Express), APIs REST, automações e ETL  
+
+🤖 <strong>Automação & IaC:</strong> Terraform, Ansible, Bash, Selenium, Playwright  
+
 </div>
 
-
-   ##
+  
 
 <div align="center">
-  <a href="https://github.com/RobertwilliamN">
-  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=RobertwilliamN&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertwilliamN&layout=compact&langs_count=7&theme=dark"/>
+
+<img src="https://streak-stats.demolab.com?user=RobertwilliamN&theme=tokyonight&hide_border=true"/>
+
 </div>
-  
  <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Robert-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Robert-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -37,7 +42,15 @@
    
 </div>
 
-   ##
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RobertwilliamN/RobertwilliamN/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/RobertwilliamN/RobertwilliamN/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+   
   
   <div align="center"> 
     <a href="https://www.linkedin.com/in/robert-william-cv/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
